@@ -8,9 +8,9 @@ And classification of these conditions are known as fetal health classification.
 * To prevent complication.
 * Early detection of Abnormality.
   
-### Goal of project is: -
-(a)	Prepare a model which correctly classify the fetal health.
-(b)	Find out the independent feature which highly influence the fetal health.
+### Goals of project are: -
 
+* Prepare a model which correctly classify the fetal health.
+* Find out the independent feature which highly influence the fetal health.
 
 This is my first Project.
